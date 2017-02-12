@@ -101,3 +101,4 @@ Black Mambas can be found in two locations, and are also spawned by Dusk Dragons
 
 * In the Night Hurnscald Caves under the tavern (recommend location)
 * In the Somber Cave
+* On the Secret Island
